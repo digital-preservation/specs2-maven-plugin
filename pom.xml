@@ -13,9 +13,9 @@
 	<groupId>com.mmakowski</groupId>
 	<artifactId>specs2-maven-plugin</artifactId>
 	<packaging>maven-plugin</packaging>
-	<version>0.4.5-SNAPSHOT</version>
+	<version>0.4.5-TNA-DRI-ALPHA</version>
 	<name>specs2 Maven plugin</name>
-	<description>A Maven plugin that executes specs2 specifications</description>
+	<description>A Maven plugin that executes specs2 specifications, internal release for use within TNA, Originally forked from mmakowski</description>
 	<url>https://github.com/mmakowski/maven-specs2-plugin</url>
 
 	<licenses>
